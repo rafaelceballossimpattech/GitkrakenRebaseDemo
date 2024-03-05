@@ -1,0 +1,1 @@
+New commit with a console.log
